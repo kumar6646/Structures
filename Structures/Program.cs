@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Structures
 {
-    /*New Line Added
+    /*
+    I have deleted this new line and add one more line.
      * Structure: 
      * structure is value type. 
      * when we create an object for structure it will
